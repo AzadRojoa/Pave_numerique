@@ -5,11 +5,6 @@ pave = Pave()
 
 code = "123A"
 userInput = ""
-
-
-def iscode(entry: str) -> bool:
-    return code == entry
-
 print("ok")
 while True:
     userInput+=pave.getkey()
