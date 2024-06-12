@@ -5,7 +5,8 @@ pave = Pave()
 
 code = "123A"
 userInput = ""
-print("ok")
+
+blink("white")
 while True:
     userInput+=pave.getkey()
     print(userInput)
