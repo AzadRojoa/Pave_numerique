@@ -5,3 +5,5 @@
 
 
 ![esp32-c3-devkitm-1-v1-pinout](https://github.com/AzadRojoa/Pave_numerique/assets/73180620/2ed4acfe-fcc3-423f-a004-9b9ab21b3094)
+
+Run code: run matrice_main.py
