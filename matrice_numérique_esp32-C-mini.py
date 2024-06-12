@@ -14,9 +14,9 @@ while True:
     if len(userInput)==len(code):
         if code == userInput:
             blink("green")
-            print("gg")
+            print("good")
         else:
             blink("red")
-            print("nul")
+            print("error code")
         userInput = ""
     sleep(0.5)
